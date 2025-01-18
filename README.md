@@ -14,8 +14,10 @@ Welcome to the Deadpool AI Agent project! This application leverages Streamlit t
 
    ```bash
    git clone https://github.com/your-username/deadpool-ai-agent.git
+   ```
+   ```bash
    cd deadpool-ai-agent
-
+    ```
 
 2. **Create a Virtual Environment**:
     ```bash
@@ -35,15 +37,15 @@ Welcome to the Deadpool AI Agent project! This application leverages Streamlit t
 
 4. ***Install Dependencies***:
 
-```bash
-    pip install -r requirements.txt
-```
+    ```bash
+        pip install -r requirements.txt
+    ```
 5. **Set Up Environment Variables**:
 
 Create a .env file in the project directory and add your Google API key:
-```bash
-    GOOGLE_API_KEY=your_google_api_key_here
-```
+    ```bash
+        GOOGLE_API_KEY=your_google_api_key_here
+    ```
 
 ## Usage
 
