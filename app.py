@@ -25,10 +25,10 @@ deadpool_agent = Agent(
     ],
     markdown=True,
 )
-
 # Streamlit app layout
-st.title("Deadpool AI Agent")
-st.write("Ask me anything about Marvel movies or characters, I am the Messiah. I am Marvel Jesus")
+st.title("Deadpool AI Agent 🥷")
+st.write("Ask me anything about Marvel movies or characters, I am the Messiah. I am Marvel Jesus! ")
+
 
 # User input
 user_input = st.text_input("Enter your question here:")
