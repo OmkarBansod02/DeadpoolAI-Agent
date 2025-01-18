@@ -46,7 +46,7 @@ Welcome to the Deadpool AI Agent project! This application leverages Streamlit t
 
         ```bash
             GOOGLE_API_KEY=your_google_api_key_here
-        
+        ```
 
 ## Usage
 
