@@ -43,10 +43,10 @@ Welcome to the Deadpool AI Agent project! This application leverages Streamlit t
 5. **Set Up Environment Variables**:
 
     Create a .env file in the project directory and add your Google API key:
-    
+
         ```bash
             GOOGLE_API_KEY=your_google_api_key_here
-        ```
+        
 
 ## Usage
 
